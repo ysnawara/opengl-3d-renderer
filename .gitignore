@@ -11,6 +11,7 @@ CMakeSettings.json
 compile_commands.json
 *.exe
 *.obj
+!assets/**/*.obj
 *.o
 *.a
 *.lib
