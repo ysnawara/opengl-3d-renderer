@@ -62,6 +62,7 @@ add_executable(renderer
     src/mesh.cpp
     src/model.cpp
     src/texture.cpp
+    src/orbit.cpp
 )
 
 target_include_directories(renderer PRIVATE
